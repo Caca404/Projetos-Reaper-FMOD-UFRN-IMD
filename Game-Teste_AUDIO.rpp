@@ -1,9 +1,9 @@
-<REAPER_PROJECT 0.1 "6.78/win64" 1679350458
+<REAPER_PROJECT 0.1 "6.78/win64" 1680030834
   <NOTES 0 2
   >
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
-  AUTOXFADE 1
+  AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
@@ -12,17 +12,17 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3198 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 18.91338080299106
+  ZOOM 18.18818135071854 0 0
+  VZOOMEX 3.13704824 128
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "Audios Brutos" ""
   <RECORD_CFG
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 0 43.2937306245874
+  SELECTION2 0 43.2937306245874
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -83,12 +83,878 @@
   >
   <TEMPOENVEX
     EGUID {444EDECF-A6D1-4D06-A0E4-B43785B0A694}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {41CD732C-2253-45B3-B0F6-95C2E72E3378}
+    NAME "Horizon Chase Turbo"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {41CD732C-2253-45B3-B0F6-95C2E72E3378}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 839.096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4679C275-C211-41CD-9A36-C8D42EE3FEC2}
+      IID 1
+      NAME "Horizon Chase Turbo.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEEC83DC-A64E-43E1-945A-3C00C8B8CD4F}
+      <SOURCE VIDEO
+        FILE "Assets\Horizon Chase Turbo.mp4"
+      >
+    >
+  >
+  <TRACK {9FC00BC5-11C3-4FC6-861F-286CBE858F1F}
+    NAME "ui change option"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.29516224459529 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FC00BC5-11C3-4FC6-861F-286CBE858F1F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 106 305 734 521
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAL3YVbLOQqlAtaLary5X4T8AAAAAAAAAQAEIAAAAAQAAAJDXVd4xJlRA/ZMzw9QL6z8AAAAAAAAAQAEIAAAAAQAAABkBpi4FyqBAj+21oPfG
+        sD5vEoPAyqH/PwEBAAAAAQAAAIyP2hwkW7hAj+21oPfGsD4AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AAAQAAAA
+      >
+      WET 0.879957 0
+      FLOATPOS 0 0 0 0
+      FXID {E9E0E422-7061-4DB0-87A7-FED4B392785F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP2Q7nz4lBgE/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BDD9D607-9217-4F5E-8FDF-19F215F150E2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 1.72640003943453
+      SNAPOFFS 0
+      LENGTH 0.19182222660383
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {871E3A82-7130-492F-B872-B2748BFBF52B}
+      IID 2
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7BF9DFB-B68C-4B5F-AC2E-86872D0B86C8}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.91285603361381
+      SNAPOFFS 0
+      LENGTH 0.2131358073376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A0E4252-004C-404C-97B4-577D134D5B1A}
+      IID 3
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8784EFC0-4D97-4E73-B324-D7EB24674500}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.2052482669703
+      SNAPOFFS 0
+      LENGTH 0.2131358073376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C1005F1-CDD1-4366-A107-A4BD126B9F1F}
+      IID 12
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24EB2ACE-BAB3-4FB2-A35C-E323EF8F933F}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.87885836610139
+      SNAPOFFS 0
+      LENGTH 0.2131358073376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B67AE10F-D644-4634-9381-CF8D48F1C428}
+      IID 11
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A17E95E3-C3E3-4E70-A809-15B870014BF6}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.02565708931263
+      SNAPOFFS 0
+      LENGTH 0.2131358073376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2765F49-CFF5-4081-A72C-A0B7ECAF5457}
+      IID 13
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDAF58DD-3759-46D2-A9F1-9BDF6301AE18}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.36476299653762
+      SNAPOFFS 0
+      LENGTH 0.2131358073376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97401E3A-DC57-4407-ADE3-FFADA4B2DA17}
+      IID 14
+      NAME 658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav
+      VOLPAN 1 0 0.580716 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {300FDF4E-1FA0-4CEC-BB4C-716C1E6ED8DF}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658266__matrixxx__retro-inspect-sound-ui-or-in-game-notification.wav"
+      >
+    >
+  >
+  <TRACK {75BA5C81-4BF7-44EE-BE2B-F3BFD2C22702}
+    NAME "ui select option 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.65487606816193 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {75BA5C81-4BF7-44EE-BE2B-F3BFD2C22702}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 45 54 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP1TjJT6+n1o/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {71A81AF6-97C4-4898-AE96-2B4C73BD613B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 4.27692520057443
+      SNAPOFFS 0
+      LENGTH 0.68203458348031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BAF773FB-8AD6-45E2-B435-0ACDB3049D12}
+      IID 4
+      NAME 515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24057C4C-233E-4F97-9D83-2D3EDD5612D2}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.57329876262574
+      SNAPOFFS 0
+      LENGTH 0.68203458348031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A957F23C-E4B3-4476-8E2B-F16E8A9AF952}
+      IID 15
+      NAME 515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {872EDE89-FC3E-4158-950B-25B28E7F4857}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav"
+      >
+    >
+  >
+  <TRACK {EF4DA7D3-7020-4CF4-B7D1-958E28601CD1}
+    NAME "ui change option 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF4DA7D3-7020-4CF4-B7D1-958E28601CD1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP4tsZz4AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD+PUY8+AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {93287D47-3E45-4F2B-B728-942C26D23BD2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 9.34615363266843
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65A675F1-82A8-473D-B22E-E12C43444C1A}
+      IID 6
+      NAME 590615__mrfossy__sfx_whooshykorn_rising_15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5277F929-C9A2-44C6-8FAF-F378DE4425D7}
+      <SOURCE WAVE
+        FILE "Audios Brutos\590615__mrfossy__sfx_whooshykorn_rising_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.93668881413158
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20417C24-A49B-4649-A1B9-628B52AB9284}
+      IID 7
+      NAME 590615__mrfossy__sfx_whooshykorn_rising_15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84E828D7-7D0D-447A-9C87-A2855A09CBF8}
+      <SOURCE WAVE
+        FILE "Audios Brutos\590615__mrfossy__sfx_whooshykorn_rising_15.wav"
+      >
+    >
+  >
+  <TRACK {F3DFE0C4-D9CD-4E55-95E7-FB1EFD7C9A90}
+    NAME "ui select option 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F3DFE0C4-D9CD-4E55-95E7-FB1EFD7C9A90}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP9NNIj8GgdU+AAAAPwAAAD8AAAA/AAAAPwAAAD8mu6c+AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2DC636DA-13A4-43CE-B0F2-367B8D8698EA}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 12.0768069530565
+      SNAPOFFS 0
+      LENGTH 0.63167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF44BFE8-83B0-44C8-9EC8-BF3540E45ED4}
+      IID 8
+      NAME 515829__newlocknew__ui_2-1-ntfo-trianglesytrusarpegiomultiprocessingrsmpl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A74980FB-B8B0-4200-8D30-2D3FB935DB1C}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515829__newlocknew__ui_2-1-ntfo-trianglesytrusarpegiomultiprocessingrsmpl.wav"
+      >
+    >
+  >
+  <TRACK {069DBF74-36F7-4835-8E59-4F42FDDFDB18}
+    NAME "soft wind"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.22653103614921 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {069DBF74-36F7-4835-8E59-4F42FDDFDB18}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP6jGyz7Jdv4+AAAAPwAAAD8AAAA/RrbzPW8SAz8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AB02362A-49C2-4C5A-B604-F448B0702021}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 12.26
+      SNAPOFFS 0
+      LENGTH 0.6614214739766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.362752 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BAC989C4-C155-45E5-9CA5-C16C74773956}
+      IID 9
+      NAME 376415__inspectorj__wind-synthesized-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.33501672432508
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A838CBC3-67DB-4CE7-9E44-4547157EDF3C}
+      <SOURCE WAVE
+        FILE "Audios Brutos\376415__inspectorj__wind-synthesized-a.wav"
+      >
+    >
+  >
+  <TRACK {8B5AD0D1-FCA3-4253-8AF5-72D9E64CAE66}
+    NAME "ui select option 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B5AD0D1-FCA3-4253-8AF5-72D9E64CAE66}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP8/3kz4AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2EB47DB4-9FBF-4128-8E8A-3AC2DD761C9B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 20.92153719654203
+      SNAPOFFS 0
+      LENGTH 0.51549892176214
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {50A7922C-14C9-4D99-9D44-D3DE51B1A920}
+      IID 16
+      NAME 515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.13727136055926
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EF4DB37-B781-415E-8B69-D0B50405E6EB}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav"
+      >
+      TAKE
+      NAME "515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.17601399306328
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {222CF61B-B2A6-4227-A89F-C1C2722866F2}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 35.12089629284575
+      SNAPOFFS 0
+      LENGTH 0.33345858342441
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DADFB44A-9F60-4FDA-B11F-B49223A73E80}
+      IID 26
+      NAME 515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.17309279109164
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5973E101-742F-44DF-A549-06B5A2CDB968}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl.wav"
+      >
+      TAKE
+      NAME "515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.25750766612749
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AF0AC06-5F2F-44E8-95E5-0A3F516B6D78}
+      <SOURCE WAVE
+        FILE "Audios Brutos\515836__newlocknew__ui_7-confusion-blip-2sytrusarpegiomultiprocessingrsmpl reversed 001.wav"
+      >
+    >
+  >
+  <TRACK {BEF64060-10E7-4894-9992-6C2E277BBF0E}
+    NAME "ui change option 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.11181678445801 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BEF64060-10E7-4894-9992-6C2E277BBF0E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP0jhuj6sHDo/AAAAPwAAAD8AAAA/L90kP7ByaD7+v7k+AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 56 84 523 474
+      FXID {FD265E94-3FBD-4F11-909D-BC1D33D39C51}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAADtQ4R+N7lBA/SwhgEbi3z8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAADJxJeQbtXpAXm6tnKjE
+        zz8AAAAAAAAAQAEBAAAAAQAAAJQaVAfhqrpAZ9I+ir/G1j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B9A65B7C-48A8-411D-86FB-65616C92EDE3}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 24.45385833917125
+      SNAPOFFS 0
+      LENGTH 0.51073174297247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACAC4A55-D511-48F2-9C76-005FD1045ABE}
+      IID 18
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72580856-5D0F-4601-B32B-8A01521C3E5D}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.64734214962395
+      SNAPOFFS 0
+      LENGTH 0.53367862596835
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.433376 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62359E8D-8A73-44EE-87E7-4FE83043305F}
+      IID 17
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26A9ECE7-7DA7-4C4F-8A90-C5F562A16CCB}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.32739625322719
+      SNAPOFFS 0
+      LENGTH 0.47950587501085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.433376 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87CB4195-A97A-4EDB-A40C-948D1CFB5F24}
+      IID 19
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.7052912549196
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6864F9E-FCD2-4D26-9BA3-939BE0DA995D}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.9850463243759
+      SNAPOFFS 0
+      LENGTH 0.51073174297246
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFF6C839-69F1-4B93-9FBE-F6B9FEA06AD7}
+      IID 21
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56BF29E8-E3BD-41A2-8BA0-DFF2DDCB4D37}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.41151476959468
+      SNAPOFFS 0
+      LENGTH 0.51073174297246
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8276C46-D4ED-40B8-896F-1BEC3DE80A6F}
+      IID 20
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F20B38B5-4EA6-409E-A622-465FE047E93E}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.71911084437855
+      SNAPOFFS 0
+      LENGTH 0.51073174297247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09BB3889-D87A-40EB-8FF3-7033AC5E9B28}
+      IID 22
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {585B9434-ECB3-4DC0-B284-E7D524CCBD68}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.14261804099604
+      SNAPOFFS 0
+      LENGTH 0.51073174297247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {190DA312-E6D7-4827-A84D-2DA6AB696D24}
+      IID 23
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F27A785E-FB18-41CC-8775-ED9AF20706A8}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.78912998992008
+      SNAPOFFS 0
+      LENGTH 0.51073174297247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10B374FD-F3A7-4176-BA6E-2DFDC3CFB05F}
+      IID 24
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52B12D11-020A-4F06-970E-BB279323A662}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.37170119664284
+      SNAPOFFS 0
+      LENGTH 0.51073174297246
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.483031 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {100785C0-9A46-49A0-8D0B-62B9C4277649}
+      IID 25
+      NAME 658261__krokulator__select4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7954E2CF-9529-4C11-9143-676D0FE80999}
+      <SOURCE WAVE
+        FILE "Audios Brutos\658261__krokulator__select4.wav"
+      >
+    >
   >
 >
